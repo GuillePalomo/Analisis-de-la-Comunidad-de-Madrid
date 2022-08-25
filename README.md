@@ -1,0 +1,1 @@
+## El trabajo es el Word. Se trata de un analisis de los salarios de la Comunidad de Madrid. La base de datos no es real, está modificada, por lo que las conclusiones no se pueden aplicar a la realidad.
